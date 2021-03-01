@@ -1,7 +1,7 @@
 package com.project.spring_study.web_project.web.dto;
 
 import org.assertj.core.api.Assertions;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class HelloResponseDtoTest {
 
